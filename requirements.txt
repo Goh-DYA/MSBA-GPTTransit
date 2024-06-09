@@ -1,0 +1,13 @@
+requests
+pandas
+gradio
+openai
+langchain
+langchain-community
+langchain-openai
+langchainhub
+huggingface_hub
+transformers
+text_generation
+tiktoken
+numexpr
