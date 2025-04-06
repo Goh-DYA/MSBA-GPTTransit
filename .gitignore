@@ -1,0 +1,24 @@
+# Ignore the virtual environment directory
+*.venv/
+
+# Ignore .env files
+*.env
+
+# Optional: Ignore other common Python files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+*.sqlite3
+.DS_Store
+*.db
+*.ipynb_checkpoints
+
+# Ignore Other files
+notebook/OneMap_Authentication.ipynb
